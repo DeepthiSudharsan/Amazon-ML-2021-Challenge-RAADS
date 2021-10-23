@@ -8,6 +8,7 @@ You can find the cleaned dataset here,
 
 https://www.kaggle.com/rohirama2/cleanamazondata
 
+## OTHER FILES
 After running the em_partX.ipynb files (We are technically splitting the dataset and encoding the data and exporting it as npy) we get the following are the npy files
 
 ![image](https://user-images.githubusercontent.com/59824729/130634704-d416a767-6194-4ab2-a05e-040de338fb62.png)
